@@ -1,3 +1,1 @@
-server.port=9012
-spring.app.value=test
-spring.cloud.openfeign.oauth2.enabled=true
+server.port=8282
